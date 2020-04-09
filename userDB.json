@@ -1,0 +1,19 @@
+[{
+      "id": 1,
+      "usr": "user1",
+      "role": "ADMIN",
+      "pwd": "123"
+   },
+   {
+      "id": 2,
+      "usr": "user2",
+      "role": "USER",
+      "pwd": "456"
+   },
+   {
+      "id": 3,
+      "usr": "user3",
+      "role": "USER",
+      "pwd": "789"
+   }
+]
